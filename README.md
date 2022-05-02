@@ -1,3 +1,7 @@
+Note:
+=====
+This is my personal fork of the template, geared towards my personal whims and preferences which are bound to change at any time. Unless you're me, you're most probably better off using the upstream template.
+
 scala3.g8: simple scala3-compiled sbt project template
 =================
 [![Continuous Integration](https://github.com/scala/scala3.g8/actions/workflows/ci.yml/badge.svg)](https://github.com/scala/scala3.g8/actions/workflows/ci.yml)
@@ -8,7 +12,7 @@ Template usage
 --------------
 Using `sbt`, do:
 ```
-sbt new scala/scala3.g8
+sbt new  SergeantSod/my-scala.g8
 ```
 in the folder where you want to clone the template.
 
